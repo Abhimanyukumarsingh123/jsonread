@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "roll_number": "A101",
+      "Class": "10th Grade",
+      "password": "john123"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "roll_number": "A102",
+      "Class": "10th Grade",
+      "password": "jane123"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "roll_number": "A103",
+      "Class": "9th Grade",
+      "password": "michael123"
+    },
+    // Add more students up to 20
+    {
+      "id": 20,
+      "name": "Emily Davis",
+      "roll_number": "A120",
+      "Class": "12th Grade",
+      "password": "emily123"
+    }
+  ]
+}

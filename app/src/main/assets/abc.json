@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "name": "John Doe",
+            "age": 20,
+            "address": {
+                "line1": "123 Main St",
+                "line2": "Apt 4B",
+                "city": "New York",
+                "state": "NY",
+                "country": "USA",
+                "pin": "10001"
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "age": 22,
+            "address": {
+                "line1": "456 Elm St",
+                "line2": "Suite 12",
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "USA",
+                "pin": "94102"
+            }
+        }
+    ]
+}

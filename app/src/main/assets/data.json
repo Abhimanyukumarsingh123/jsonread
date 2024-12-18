@@ -1,0 +1,362 @@
+    [
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Alphabet Recognition",
+        "description": "Learn the letters of the alphabet.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Alphabet Recognition to {Student name}. They are in Kindergarten. Help them identify and name letters."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Counting Numbers",
+        "description": "Count from 1 to 10.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Counting Numbers to {Student name}. They are in Kindergarten. Help them count from 1 to 10."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Colors Recognition",
+        "description": "Identify basic colors.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Colors Recognition to {Student name}. They are in Kindergarten. Introduce basic colors like red, blue, and green."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Animal Sounds",
+        "description": "Learn the sounds animals make.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Animal Sounds to {Student name}. They are in Kindergarten. Teach them sounds like 'What does a dog say?'."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Basic Shapes",
+        "description": "Recognize shapes like circle, square, and triangle.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Shapes to {Student name}. They are in Kindergarten. Ask them to identify shapes like circle or square."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Body Parts",
+        "description": "Name and identify basic body parts.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Body Parts to {Student name}. They are in Kindergarten. Help them learn about eyes, nose, and mouth."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Days of the Week",
+        "description": "Learn the days in a week.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Days of the Week to {Student name}. They are in Kindergarten. Teach them the names of all 7 days."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Fruit Names",
+        "description": "Identify common fruits.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Fruit Names to {Student name}. They are in Kindergarten. Ask them to name fruits like apple and banana."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Vegetable Names",
+        "description": "Recognize common vegetables.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Vegetable Names to {Student name}. They are in Kindergarten. Teach them about carrots and potatoes."
+      },
+      {
+        "Class": "Kindergarten",
+        "topic_name": "Rhyming Words",
+        "description": "Learn simple rhyming words.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Rhyming Words to {Student name}. They are in Kindergarten. Teach words like cat and bat."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Addition and Subtraction",
+        "description": "Simple addition and subtraction up to 10.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Addition and Subtraction to {Student name}. They are in Class 1. Then ask simple questions like 'What is 5 + 2?'."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Months of the Year",
+        "description": "Names of the months.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Months of the Year to {Student name}. They are in Class 1. Ask questions like 'What comes after January?'."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Common Opposites",
+        "description": "Big-small, hot-cold, etc.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Common Opposites to {Student name}. They are in Class 1. Teach opposites like big-small or up-down."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Good Manners",
+        "description": "Basics of politeness.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Good Manners to {Student name}. They are in Class 1. Teach them to say 'please' and 'thank you'."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Living and Non-Living Things",
+        "description": "Understand the difference.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Living and Non-Living Things to {Student name}. They are in Class 1. Ask questions like 'Is a rock living or non-living?'."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Days and Nights",
+        "description": "Learn about day and night cycles.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Days and Nights to {Student name}. They are in Class 1. Explain why the sun is out during the day."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Simple Patterns",
+        "description": "Recognize and complete patterns.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Simple Patterns to {Student name}. They are in Class 1. Ask 'What comes next in the pattern: circle, square, circle?'."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Basic Animals",
+        "description": "Learn about domestic and wild animals.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Animals to {Student name}. They are in Class 1. Teach them about cats and lions."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Introduction to Weather",
+        "description": "Sunny, rainy, cloudy.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Weather to {Student name}. They are in Class 1. Ask about sunny or rainy days."
+      },
+      {
+        "Class": 1,
+        "topic_name": "Common Tools",
+        "description": "Learn about tools like scissors, pencils, etc.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Common Tools to {Student name}. They are in Class 1. Introduce tools like pencil and scissors."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Basic Multiplication",
+        "description": "Multiplication tables up to 5.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Multiplication to {Student name}. They are in Class 2. Ask questions like 'What is 2 x 3?'."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Telling Time",
+        "description": "Reading analog and digital clocks.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Telling Time to {Student name}. They are in Class 2. Help them read clocks and ask about time like 'What time is it now?'."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Basic Measurements",
+        "description": "Length, weight, height.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Measurements to {Student name}. They are in Class 2. Ask them to estimate measurements."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Parts of a Plant",
+        "description": "Roots, stems, leaves, and flowers.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Parts of a Plant to {Student name}. They are in Class 2. Explain plant parts and their functions."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Animal Habitats",
+        "description": "Where animals live (jungle, water, etc.).",
+        "ai_prompt": "Hey ChatGPT, you need to teach Animal Habitats to {Student name}. They are in Class 2. Teach them about habitats like forest and ocean."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Family Tree",
+        "description": "Understanding family relationships.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Family Tree to {Student name}. They are in Class 2. Help them identify family members."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Seasons",
+        "description": "Summer, winter, monsoon, spring.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Seasons to {Student name}. They are in Class 2. Discuss different seasons and their characteristics."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Basic Hygiene",
+        "description": "Importance of handwashing, brushing teeth.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Hygiene to {Student name}. They are in Class 2. Explain why hygiene is important."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Traffic Rules",
+        "description": "Basics of road safety.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Traffic Rules to {Student name}. They are in Class 2. Teach them to follow traffic lights."
+      },
+      {
+        "Class": 2,
+        "topic_name": "Famous Stories",
+        "description": "Simple moral stories (e.g., 'The Lion and the Mouse').",
+        "ai_prompt": "Hey ChatGPT, you need to tell Famous Stories to {Student name}. They are in Class 2. Share moral lessons through stories."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Advanced Addition and Subtraction",
+        "description": "Multi-digit calculations.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Advanced Addition and Subtraction to {Student name}. They are in Class 3. Then ask questions like 'What is 123 + 456?'."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Solar System Basics",
+        "description": "Planets, moons, and the sun.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Solar System Basics to {Student name}. They are in Class 3. Explain the planets and their order."
+      },
+      {
+        "Class": 3,
+        "topic_name": "States of Matter",
+        "description": "Solids, liquids, and gases.",
+        "ai_prompt": "Hey ChatGPT, you need to teach States of Matter to {Student name}. They are in Class 3. Ask questions like 'Is water a liquid or gas?'."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Types of Houses",
+        "description": "Bungalows, apartments, huts.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Types of Houses to {Student name}. They are in Class 3. Discuss different types of houses."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Introduction to Maps",
+        "description": "Basics of maps and directions.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Maps to {Student name}. They are in Class 3. Show basic map symbols and ask them to find directions."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Famous Festivals",
+        "description": "Diwali, Eid, Christmas, Holi.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Famous Festivals to {Student name}. They are in Class 3. Explain the significance of these festivals."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Famous Personalities",
+        "description": "Mahatma Gandhi, Mother Teresa.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Famous Personalities to {Student name}. They are in Class 3. Share stories about their lives."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Water Cycle",
+        "description": "Evaporation, condensation, and precipitation.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Water Cycle to {Student name}. They are in Class 3. Explain how water moves through the cycle."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Healthy Food vs Junk Food",
+        "description": "Basics of nutrition.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Healthy Food vs Junk Food to {Student name}. They are in Class 3. Discuss the benefits of healthy eating."
+      },
+      {
+        "Class": 3,
+        "topic_name": "Basic Computer Parts",
+        "description": "Monitor, CPU, mouse, keyboard.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Computer Parts to {Student name}. They are in Class 3. Show the functions of each part."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Advanced Multiplication and Division",
+        "description": "Tables up to 12 and division.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Advanced Multiplication and Division to {Student name}. They are in Class 4. Practice tables and basic division."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Fractions",
+        "description": "Parts of a whole, simple addition of fractions.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Fractions to {Student name}. They are in Class 4. Teach how to add and compare fractions."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Simple Machines",
+        "description": "Lever, pulley, wheel and axle.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Simple Machines to {Student name}. They are in Class 4. Explain how each machine works."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Indian States and Capitals",
+        "description": "Names and capitals of Indian states.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Indian States and Capitals to {Student name}. They are in Class 4. Test their knowledge of state capitals."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Introduction to Ecosystem",
+        "description": "Plants, animals, and their interactions.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Ecosystem Basics to {Student name}. They are in Class 4. Discuss how living things depend on each other."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Electricity Basics",
+        "description": "Circuits, safety, and how electricity works.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Electricity Basics to {Student name}. They are in Class 4. Demonstrate simple circuits."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Basic Geometry",
+        "description": "Lines, angles, and polygons.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Basic Geometry to {Student name}. They are in Class 4. Practice drawing angles and shapes."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Historical Monuments",
+        "description": "Taj Mahal, Red Fort, Qutub Minar.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Historical Monuments to {Student name}. They are in Class 4. Share stories about these monuments."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Famous Rivers",
+        "description": "Ganga, Yamuna, Amazon, Nile.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Famous Rivers to {Student name}. They are in Class 4. Discuss the importance of rivers."
+      },
+      {
+        "Class": 4,
+        "topic_name": "Human Digestive System",
+        "description": "Simple explanation of how food is digested.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Human Digestive System to {Student name}. They are in Class 4. Explain how food is processed in our body."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Decimals and Percentages",
+        "description": "Basics of decimals and calculating percentages.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Decimals and Percentages to {Student name}. They are in Class 5. Explain how to calculate percentages."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Introduction to History",
+        "description": "Ancient civilizations like Egypt, Indus Valley.",
+        "ai_prompt": "Hey ChatGPT, you need to teach History Basics to {Student name}. They are in Class 5. Share about ancient civilizations."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Advanced Geography",
+        "description": "Continents, oceans, and major mountain ranges.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Advanced Geography to {Student name}. They are in Class 5. Talk about continents and oceans."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Scientific Experiments",
+        "description": "Basic science experiments and their principles.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Scientific Experiments to {Student name}. They are in Class 5. Explain principles through examples."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Types of Energy",
+        "description": "Solar, wind, hydro, and fossil fuels.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Types of Energy to {Student name}. They are in Class 5. Discuss renewable and non-renewable energy."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Introduction to Grammar",
+        "description": "Nouns, verbs, adjectives, adverbs.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Grammar Basics to {Student name}. They are in Class 5. Practice identifying parts of speech."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Human Body Systems",
+        "description": "Circulatory, respiratory, and skeletal systems.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Human Body Systems to {Student name}. They are in Class 5. Discuss how these systems work together."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Environmental Conservation",
+        "description": "Reducing waste, recycling, saving water.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Environmental Conservation to {Student name}. They are in Class 5. Discuss the importance of saving the planet."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Global Warming Basics",
+        "description": "Causes and effects of climate change.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Global Warming Basics to {Student name}. They are in Class 5. Explain the impact of climate change."
+      },
+      {
+        "Class": 5,
+        "topic_name": "Famous Global Personalities",
+        "description": "Martin Luther King Jr., APJ Abdul Kalam.",
+        "ai_prompt": "Hey ChatGPT, you need to teach Famous Global Personalities to {Student name}. They are in Class 5. Share their contributions."
+      }
+    ]
